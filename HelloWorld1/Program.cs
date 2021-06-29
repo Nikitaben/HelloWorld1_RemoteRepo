@@ -12,7 +12,9 @@ namespace HelloWorld1
             int res = 5 * 4;
             Console.WriteLine("res = " + res);
 
+            //feature2
+            Console.WriteLine("Second feature here!");
+
         }
     }
 }
-.
